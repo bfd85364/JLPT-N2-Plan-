@@ -1,4 +1,5 @@
 # JLPT-N2-Plan-
+https://weareclubstudy.com/tools/exam-schedule/jlpt
 
 <img width="1612" height="825" alt="image" src="https://github.com/user-attachments/assets/73ad1526-bdd1-476d-b861-984b0a12cfc1" />
 
